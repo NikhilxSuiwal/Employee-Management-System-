@@ -1,0 +1,40 @@
+@import "tailwindcss";
+*{
+    color: white;
+}
+body{
+    background-color: #475161;
+}
+
+/* Log-In Page Css */
+.cmpny{
+    color: rgb(218, 217, 217);
+    font-family: "avenir";
+    font-weight: 500;
+}
+.pass{
+    background-color: rgba(84, 84, 84, 0.34);
+    box-shadow: inset 0 2px 5px rgba(0,0,0,0.2);
+}
+.mail{
+    background-color: rgba(84, 84, 84, 0.34);
+    box-shadow: inset 0 2px 5px rgba(0,0,0,0.2);
+}
+.logged{
+    font-size: 22px;
+    color: rgb(174, 174, 174);
+    box-shadow: inset 0 12px 8px rgba(0,0,0,0.2);
+}
+.logged:hover{
+    color: rgb(255, 255, 255);
+}
+
+
+/* TaskList */
+#tasklist::-webkit-scrollbar{
+    display: none;
+}
+
+#alltask::-webkit-scrollbar{
+    display: none;
+}
