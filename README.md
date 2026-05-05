@@ -19,4 +19,4 @@ This is a React-based Employee Management System where admin and employees can m
 2. npm run dev
 
 ## Live Link
-(will be added soon)
+(https://employee-management-system-alpha-nine.vercel.app/)
