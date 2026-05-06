@@ -246,6 +246,7 @@ const admin = [
   {
     id: 101,
     email: "admin@example.com",
+    firstname: "Admin",
     password: "123"
   }
 ];
